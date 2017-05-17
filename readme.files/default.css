@@ -1,0 +1,198 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #000; PADDING-TOP: 0px; FONT-FAMILY: Georgia,Verdana,Lucida,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+A {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.wikiTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: Tahoma,Lucida,sans-serif; TEXT-DECORATION: none
+}
+TT.wiki {
+	FONT-SIZE: 12px; FONT-FAMILY: Monotype,Lucida Console,fixed,lucida
+}
+TT.foot {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: super; FONT-FAMILY: Tahoma,lucida,fixed
+}
+TT.sister {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: super; FONT-FAMILY: Tahoma,lucida,fixed; TEXT-DECORATION: none
+}
+PRE.wiki {
+	BORDER-RIGHT: #959597 1px dashed; BORDER-TOP: #959597 1px dashed; PADDING-LEFT: 6px; FONT-SIZE: 11px; BORDER-LEFT: #959597 1px dashed; COLOR: #000; PADDING-TOP: 6px; BORDER-BOTTOM: #959597 1px dashed; FONT-FAMILY: Lucida TypeWriter,monotype,lucida,fixed; BACKGROUND-COLOR: #ededfc
+}
+PRE.console {
+	BORDER-RIGHT: #808080 2px inset; PADDING-RIGHT: 0.25em; BORDER-TOP: #808080 2px inset; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0.25em; BORDER-LEFT: #808080 2px inset; COLOR: #e0e0e0; PADDING-TOP: 0.25em; BORDER-BOTTOM: #808080 2px inset; BACKGROUND-COLOR: #000000
+}
+PRE.quote {
+	PADDING-LEFT: 6px; FONT-SIZE: 14px; PADDING-TOP: 6px; FONT-FAMILY: Georgia,monotype,lucida,fixed; BACKGROUND-COLOR: #e9ecef
+}
+TABLE.wiki {
+	BORDER-RIGHT: #ddddb0 0px outset; BORDER-TOP: #ddddb0 0px outset; BORDER-LEFT: #ddddb0 0px outset; BORDER-BOTTOM: #ddddb0 0px outset
+}
+TD.wiki {
+	BORDER-RIGHT: #e2ece5 0px inset; BORDER-TOP: #e2ece5 0px inset; BORDER-LEFT: #e2ece5 0px inset; BORDER-BOTTOM: #e2ece5 0px inset; BACKGROUND-COLOR: #e9ecef
+}
+TEXTAREA.wiki {
+	WIDTH: 100%
+}
+TH.info {
+	BACKGROUND-COLOR: #e2ece2
+}
+TD.info {
+	BACKGROUND-COLOR: #e2ece2
+}
+H1 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 6px; FONT-SIZE: 20px; BORDER-LEFT: #000000 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #666666
+}
+H2 {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; PADDING-LEFT: 6px; FONT-SIZE: 18px; BORDER-LEFT: #666666 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #999999
+}
+H3 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 6px; FONT-SIZE: 15px; BORDER-LEFT: #999999 1px solid; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #cccccc
+}
+H4 {
+	BORDER-RIGHT: #b7b7b7 1px solid; BORDER-TOP: #b7b7b7 1px solid; PADDING-LEFT: 6px; FONT-SIZE: 13px; BORDER-LEFT: #b7b7b7 1px solid; COLOR: #000000; BORDER-BOTTOM: #b7b7b7 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #e9e9e6
+}
+H5 {
+	BORDER-RIGHT: #dadada 1px solid; BORDER-TOP: #dadada 1px solid; PADDING-LEFT: 6px; FONT-SIZE: 11px; BORDER-LEFT: #dadada 1px solid; COLOR: #f6f8de; BORDER-BOTTOM: #dadada 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f4f4ef
+}
+DIV.diff-added {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana,Lucida Sans TypeWriter,Lucida Console,fixed; BACKGROUND-COLOR: #e0ffe0
+}
+DIV.diff-removed {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana,Lucida Sans TypeWriter,Lucida Console,fixed; BACKGROUND-COLOR: #e9eab8
+}
+DIV.diff-sep {
+	FONT-SIZE: 12px; COLOR: #ffd700; FONT-FAMILY: georgia,Verdana,Lucida Sans TypeWriter,Lucida Console,fixed; BACKGROUND-COLOR: #000000
+}
+SPAN.diff-added {
+	COLOR: black; BACKGROUND-COLOR: #60ff60; TEXT-DECORATION: none
+}
+INS.diff-added {
+	COLOR: black; BACKGROUND-COLOR: #60ff60; TEXT-DECORATION: none
+}
+SPAN.diff-removed {
+	COLOR: black; BACKGROUND-COLOR: #ff0000
+}
+DEL.diff-removed {
+	COLOR: black; BACKGROUND-COLOR: #ff0000
+}
+TD.message {
+	BORDER-RIGHT: #990000 1pt solid; PADDING-RIGHT: 0px; BORDER-TOP: #990000 1pt solid; MARGIN-TOP: 6pt; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #990000 1pt solid; WIDTH: 100%; COLOR: #440000; PADDING-TOP: 0px; BORDER-BOTTOM: #990000 1pt solid; BACKGROUND-COLOR: #e8e8e8
+}
+.highlight {
+	BACKGROUND-COLOR: #ffff40
+}
+TABLE.goto {
+	BACKGROUND-COLOR: #002b2c
+}
+SPAN.goto {
+	FONT-SIZE: 10px; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+INPUT.goto {
+	FONT-SIZE: 10px; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+TABLE.closure {
+	BACKGROUND-COLOR: #e9ecef
+}
+TD.closure {
+	BACKGROUND-COLOR: #e9ecef
+}
+.wikiHr {
+	BORDER-RIGHT: 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: 0px solid; MARGIN-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 0px solid; PADDING-TOP: 0px; BORDER-BOTTOM: 0px solid; HEIGHT: 1px
+}
+#wikiTrailer {
+	PADDING-LEFT: 20px; PADDING-BOTTOM: 5px
+}
+#wikiOrigin {
+	PADDING-LEFT: 20px; PADDING-BOTTOM: 5px
+}
+#wikiHeader {
+	PADDING-RIGHT: 0em; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; COLOR: #fff; PADDING-TOP: 0.2em; BACKGROUND-COLOR: #8b8b8b
+}
+#wikiMenu {
+	PADDING-RIGHT: 0em; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; COLOR: #fff; PADDING-TOP: 0.2em; BACKGROUND-COLOR: #d6c8b6
+}
+#wikiHeader A:link {
+	COLOR: #fff
+}
+#wikiHeader A:visited {
+	COLOR: #f2f2f2
+}
+#wikiBody {
+	BORDER-RIGHT: #a7a7a9 2px dotted; PADDING-RIGHT: 1em; BORDER-TOP: #a7a7a9 2px dotted; PADDING-LEFT: 1em; PADDING-BOTTOM: 5px; MARGIN: 0px 5px; BORDER-LEFT: #a7a7a9 2px dotted; COLOR: black; PADDING-TOP: 5px; BORDER-BOTTOM: #a7a7a9 2px dotted; BACKGROUND-COLOR: #fff
+}
+#wikiBody A {
+	FONT-WEIGHT: bold; COLOR: #1d0575; TEXT-DECORATION: none
+}
+#wikiBody A:hover {
+	FONT-WEIGHT: bold; COLOR: #31506b; TEXT-DECORATION: underline
+}
+#wikiContent {
+	MARGIN-LEFT: 5px
+}
+#wikiFooter {
+	PADDING-RIGHT: 2em; PADDING-LEFT: 2em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; BACKGROUND-COLOR: #8b8b8b
+}
+#wikiHint {
+	FONT-SIZE: 10px; FONT-FAMILY: Georgia,Verdana,Lucida,sans-serif; BACKGROUND-COLOR: #e2dae2
+}
+#wikiSister {
+	
+}
+#wikiPreview {
+	BORDER-RIGHT: #a0a0a0 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: #a0a0a0 2px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 5px; MARGIN: 5px; BORDER-LEFT: #a0a0a0 2px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #a0a0a0 2px solid
+}
+#wikiIcon {
+	RIGHT: 10px; MARGIN-LEFT: 10px; VERTICAL-ALIGN: middle; POSITION: absolute; TOP: 80px; TEXT-ALIGN: right
+}
+DIV.indent {
+	PADDING-LEFT: 2em
+}
+DIV.hint {
+	FONT-SIZE: 10px; COLOR: white; BACKGROUND-COLOR: #369
+}
+A.purple {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+A.purple {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+DIV.blog {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0em; WIDTH: 90%; PADDING-TOP: 0em
+}
+DIV.blog-user {
+	FONT-SIZE: 10px
+}
+DIV.blog-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+DIV.blog-comments {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 2em; PADDING-BOTTOM: 1em; BORDER-LEFT: #7b9ac5 1px dashed; PADDING-TOP: 1em; BACKGROUND-COLOR: #dff0ff
+}
+DIV.blog-date {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; PADDING-BOTTOM: 5px
+}
+SPAN.blog-user {
+	FONT-SIZE: 10px
+}
+DIV.trackback-hint {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; FONT-SIZE: 10px; PADDING-BOTTOM: 1em; PADDING-TOP: 1em; BACKGROUND-COLOR: #eee
+}
+TD.day {
+	BACKGROUND: #e5d9c7; TEXT-ALIGN: center
+}
+TD.today {
+	BACKGROUND: #ffffff; TEXT-ALIGN: center
+}
+SPAN.group {
+	FONT-SIZE: 10px; FONT-FAMILY: Tahoma,Lucida,sans-serif
+}
+DIV.wikiPre I {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+DIV.wikiPre B {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}

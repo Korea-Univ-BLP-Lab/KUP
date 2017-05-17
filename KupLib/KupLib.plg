@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: KupLib - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF.tmp" with contents
+[
+/nologo /out:"../lib/libKup.lib" /NODEFAULTLIB:LIBCMT.LIB 
+\research\webParser\KuParserDeploy_1122\lib\BTree.obj
+\research\webParser\KuParserDeploy_1122\lib\DynamicRule.obj
+\research\webParser\KuParserDeploy_1122\lib\KomaWrap.obj
+\research\webParser\KuParserDeploy_1122\lib\Kup.obj
+\research\webParser\KuParserDeploy_1122\lib\Lexicon.obj
+\research\webParser\KuParserDeploy_1122\lib\ParseTree.obj
+\research\webParser\KuParserDeploy_1122\lib\ReadTree.obj
+\research\webParser\KuParserDeploy_1122\lib\StaticRule.obj
+\research\webParser\KuParserDeploy_1122\lib\WriteTree.obj
+..\Koma\Koma.lib
+..\Koma\HanTag.lib
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF.tmp"
+<h3>Output Window</h3>
+Creating library...
+HanTag.lib(HanTag.dll) : warning LNK4006: _tg2ks already defined in Koma.lib(Koma.dll); second definition ignored
+HanTag.lib(HanTag.dll) : warning LNK4006: __imp__tg2ks already defined in Koma.lib(Koma.dll); second definition ignored
+HanTag.lib(HanTag.dll) : warning LNK4006: _ks2tg already defined in Koma.lib(Koma.dll); second definition ignored
+HanTag.lib(HanTag.dll) : warning LNK4006: __imp__ks2tg already defined in Koma.lib(Koma.dll); second definition ignored
+HanTag.lib(HanTag.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in Koma.lib(Koma.dll); second definition ignored
+
+
+
+<h3>Results</h3>
+libKup.lib - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
